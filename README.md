@@ -4,7 +4,7 @@
 
 ```
 npm install gt3-sdk --save
-```
+``` 
 
 # 运行DEMO
 
